@@ -1,0 +1,1 @@
+( echo "dummynet in from any to any pipe 1" | sudo pfctl -mf - ) &>/dev/null
